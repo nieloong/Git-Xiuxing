@@ -2,7 +2,7 @@
  * @Author: nieloong@aliyun.com
  * @Date: 2020-03-10 12:19:17
  * @LastEditors: Loong Nie
- * @LastEditTime: 2020-03-10 23:51:37
+ * @LastEditTime: 2020-03-10 23:57:58
  * @FilePath: \Git Xiuxing\README.md
  * @Descripttion:
  * @version:
@@ -10,9 +10,9 @@
 
 # Git 修行
 
-## 20200310 闭关修炼
+### 20200310 闭关修炼
 
-### **踩坑 Version0.0.0**
+#### **踩坑 Version0.0.0**
 
 - git remove 提示 fatal：remote origin already exists
 
