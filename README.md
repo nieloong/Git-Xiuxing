@@ -2,8 +2,8 @@
  * @Author: nieloong@aliyun.com
  * @Date: 2020-03-10 12:19:17
  * @LastEditors: Loong Nie
- * @LastEditTime: 2020-03-10 23:57:58
- * @FilePath: \Git Xiuxing\README.md
+ * @LastEditTime: 2020-03-11 11:16:47
+ * @FilePath: \Git-Xiuxing\README.md
  * @Descripttion:
  * @version:
  -->
@@ -27,3 +27,5 @@
 - 使用 SSH 建立 Git 远程仓库和本地库连接
 
   [参考文章](http://note.youdao.com/noteshare?id=8374adda390c58a44ec3f9fe8f892d18&sub=232A32C81A2E4F5B9A9E733B3CEB0101)
+
+- git clone 命令
